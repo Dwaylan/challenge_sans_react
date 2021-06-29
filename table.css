@@ -1,0 +1,10 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(238, 233, 226);
+}
+
+.headers {
+  background-color: blue;
+  color: white;
+  box-shadow: grey 3px 3px;
+}
